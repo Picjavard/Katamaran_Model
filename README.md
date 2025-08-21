@@ -75,7 +75,8 @@
 	7.  В разрыв питания от аккумуляторо следует поставить тумблер для удобного вкл./выкл. системы ("SW_1")
 
 ## ⚙️ 3D Модели (STL файлы)
-*   [Thingiverse](https://www.thingiverse.com/thing:7124142)  - Ссылка на проект на Thingiverse.
+*   [`Carpet Cruiser Remix`](https://www.thingiverse.com/thing:7124142)  - Ссылка на проект на Thingiverse.
+*   [`Carpet Cruiser`](https://www.thingiverse.com/thing:6962726)  - Ссылка на оригинальный проект (для модели меньшего размера).
 
 **Рекомендации по печати:**
 *   Материал: PLA или PETG (достаточно прочно).
